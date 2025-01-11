@@ -22,5 +22,4 @@ soulbound: false
 unbreakable: false
 
 enchantments:
-  protection: 4
-  unbreaking: 3
+  mending: 1
