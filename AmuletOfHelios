@@ -1,0 +1,24 @@
+name: "&8>> &4Amulet of Helios &r&8<<"
+
+lore:
+  lore1: "&7&8&9"
+  lore2: "&4&l☀ &r&4Fire &7Defense: 100%"
+  lore3: "&7&8&9"
+  lore4: "&a+0.2% &7Endurance"
+  lore5: "&a+20% &7Repulsion"
+  lore6: "&7&8&9"
+  lore7: "&cRenowned Item"
+  lore8: "&8A bastion against the consuming"
+  lore9: "&8flames, forged for those who defy"
+  lore10: "&8the chaos of both fire and fate."
+
+material: ENCHANTED_BOOK
+
+id: 1
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  mending: 1
