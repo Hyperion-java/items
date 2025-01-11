@@ -1,0 +1,26 @@
+name: "&8>> &6Amulet of Jupiter &r&8<<"
+
+lore:
+  lore1: "&7&8&9"
+  lore2: "&e&l★ &r&eAttack &7Speed: -25%"
+  lore3: "&7&8&9"
+  lore4: "&a+20% &7Strength"
+  lore5: "&a+50% &7Vanguard"
+  lore6: "&c-25% &7Vitality"
+  lore7: "&7&8&9"
+  lore8: "&4Divine Artifact"
+  lore9: "&8&8A symbol of immense strength,"
+  lore10: "&8forged for those who harness"
+  lore11: "&8power at the cost of swift strikes."
+
+material: ENCHANTED_BOOK  # or any suitable material for amulet-like items
+
+id: 2
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  protection: 4
+  unbreaking: 3
